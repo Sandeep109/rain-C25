@@ -1,2 +1,2 @@
-# rain-C25
-rain C25 project
+# p5.play-boilerplate
+Boiler plate for p5.play
